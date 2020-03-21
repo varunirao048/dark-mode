@@ -1,0 +1,21 @@
+body{
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+.dark-mode{
+  background-color: #2d2d2d;
+  color: white;
+}
+span{
+  background-color: black;
+  color:white;
+  padding: 10px;
+  border-radius: 10px;
+}
+.dark-mode>span
+{
+  background-color: white;
+  color:black;
+}
